@@ -1,10 +1,10 @@
 
-# Alcovex_todo_Application
+# TaskTrack
 
-A todo Tasks App that keep track of all the projects which are INREVIEW ,INPROGRESS, COMPLETED states!!!
+A Tasks App that keep track of all the projects which are INREVIEW ,INPROGRESS, COMPLETED states!!!
 
 # V1.0.0
-This is an initial versionof the Alcovex_todo_Application
+This is an initial version of the taskTrack
 
 # Must Know About
 
@@ -33,7 +33,7 @@ https://alcovex-todotask-anitha.onrender.com/
 1.Clone the repository to your local machine:
 
 ```git
-git clone https://github.com/Anithasadhanala/Alcovecx_todo.git
+git clone https://github.com/Anithasadhanala/TaskTrack.git
 
 ```
 
